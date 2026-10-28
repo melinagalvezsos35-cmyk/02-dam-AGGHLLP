@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:recetas_ancestrales/screens/home_screen.dart';
+
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -12,7 +14,7 @@ class _MainScreenState extends State<MainScreen> {
 
   
   final List<Widget> _pantallas = const [
-    Center(child: Text('Home Screen')),
+    HomeScreen(),
     Center(child: Text('Favoritos Screen')),
     Center(child: Text('Acerca de Screen')),
   ];
