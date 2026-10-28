@@ -40,7 +40,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             SizedBox(height: 20),
             Text(
-              'Delfines Store',
+              'Recetas Ancestrales',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
