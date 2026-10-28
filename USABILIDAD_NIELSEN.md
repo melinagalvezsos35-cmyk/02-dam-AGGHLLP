@@ -42,4 +42,8 @@ Los mensajes de respuesta rápida (*SnackBar*) y las vistas de marcador de posic
     Loria Gil Carlos Said (Desarrollador 4)
     Góngora Chamorro Elías Alejandro (Desarrollador 5 y 6)
     Peraza Cupul Luis Ángel (Desarrollador 7)
+<<<<<<< HEAD
     Arizmendi Reyes Angel de Jesus (Desarrollador 8)      
+=======
+    Arizmendi Reyes Angel de Jesus (Desarrollador 8)
+>>>>>>> aef0479d8091a3b1cce0a508fe175f09532084ee
