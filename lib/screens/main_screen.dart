@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:recetas_ancestrales/screens/acercaDe_screen.dart';
+import 'package:recetas_ancestrales/screens/favoritos_screen.dart';
 import 'package:recetas_ancestrales/screens/home_screen.dart';
 
 
@@ -15,8 +17,8 @@ class _MainScreenState extends State<MainScreen> {
   
   final List<Widget> _pantallas = const [
     HomeScreen(),
-    Center(child: Text('Favoritos Screen')),
-    Center(child: Text('Acerca de Screen')),
+    FavoritosScreen(),
+    AcercadeScreen(),
   ];
 
   void _cambiarPantalla(int index) {
